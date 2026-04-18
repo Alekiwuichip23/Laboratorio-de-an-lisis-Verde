@@ -1,0 +1,2 @@
+# Ocultar secretos de Streamlit
+.streamlit/secrets.toml
